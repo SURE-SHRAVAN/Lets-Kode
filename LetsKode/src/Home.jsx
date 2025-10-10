@@ -1,6 +1,6 @@
 import React from "react";
 
-const Dashboard = () => {
+const Home = () => {
   return (
     <div style={{
       height: "100vh",
@@ -16,4 +16,4 @@ const Dashboard = () => {
   );
 };
 
-export default Dashboard;
+export default Home;

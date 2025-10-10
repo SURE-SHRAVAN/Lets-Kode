@@ -238,7 +238,7 @@ const Intro = () => {
           <h1>LetsKode</h1>
           <p className="tagline">Create Share Discuss</p>
           <div className="cta-buttons">
-            <Link to="/dashboard" className="btn btn-primary">
+            <Link to="/Register" className="btn btn-primary">
              Get Started
              </Link>
           </div>
